@@ -17,10 +17,10 @@
 | ---                       | ---       |
 | Portela, Augusto          | 75495     |
 | Savala, Francisco         | 86146     |
-| Leandro                   |           |
+| Gor, Leandro Gabriel      | 85920     |
 | Haliska, Martina          | 88304     |
 | Gonzalez Autelli, Matias  | 75822     |
-| Rocio                     |           |
+| Torti, Rocio              | 86576    |
 
 ---
 
