@@ -26,7 +26,7 @@
 
 # Estructura del repositorio
 
-![estructura_repositorio.png](Estructura_Repositorio.png)
+![estructura_repositorio.png](4K3_ISW_G5_EstructuraRepositorio.png)
 
 ---
 
