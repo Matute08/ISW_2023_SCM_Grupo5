@@ -1,0 +1,24 @@
+Realizar un pedido de productos
+Registrarse como cliente
+Agregar producto a carro de compras
+Quitar producto de carro de compras
+Recibir mail de confirmación de compra
+Crear kit de producto
+Cargar partida de productos masiva
+Recibir mail de numero de tracking
+Cancelar pedido
+Solicitar reembolso de pedido
+
+Descripción:
+Una aplicación que permita la venta de productos de body paint, donde estos se puedan cargar, se informe sobre el envío y crear kits de productos que son un compuesto entre los productos simples además de la cancelación del pedido por si ocurre algún problema como la falta de stock.
+No incluye:
+- Descuentos
+- Reportes de ventas
+- Información de falta de stock
+- Estado del pedido
+
+NO VAN
+Visualizar stock de productos X
+Eliminar kit X
+Configurar stock minimo X
+Generar cupon de descuento X
