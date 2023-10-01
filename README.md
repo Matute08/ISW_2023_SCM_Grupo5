@@ -72,10 +72,10 @@
 
 Consideramos que el momento más adecuado para establecer una línea base con el conjunto de elementos de configuración creados y sus respectivas versiones, será cada 2 (dos) semanas, para llevar actualizado el repositorio. Las fechas son:
 
-    -  Sabado 30/09/2023
-    -  Sabado 14/10/2023
-    -  Sabado 28/10/2023
-    -  Sabado 11/11/2023
-    -  Sabado 25/11/2023
+    -  Domingo 1/10/2023
+    -  Domingo 15/10/2023
+    -  Domingo 29/10/2023
+    -  Domingo 12/11/2023
+    -  Domingo 26/11/2023
 
 Para dicho fin utilizaremos la funcionalidad “tags” incorporada dentro de la herramienta Git.
