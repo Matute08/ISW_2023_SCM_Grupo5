@@ -44,7 +44,7 @@
 |Plantillas                                |4K3_ISW_G5_PLA_\<Descripcion>.\<Ext>                       |/Practico/Plantillas/ |
 |Enunciados Trabajos Prácticos Conceptuales|4K3_ISW_G5_TC_Enunciados.pdf                             |/Teorico/Trabajos_Conceptuales/ |
 |Resolución Trabajos Prácticos Conceptuales|4K3_ISW_G5_TC_\<NroTrabajo>\_Resolucion_\<Descripcion>.\<Ext>|/Teorico/Trabajos_Conceptuales/ |
-|Filminas de Clases                        |4K3_ISW_G5_Filmina_U\<X>_\<Descripcion>.pdf                |/Teorico/Presentaciones_De_Clase/ |
+|Filminas de Clases                        |4K3_ISW_G5_Filmina_N\<X>_\<Descripcion>.pdf                |/Teorico/Presentaciones_De_Clase/ |
 |Notas de clase teóricas                   |4K3_ISW_G5_\<Descripcion>_\<Alumno>.\<Ext>                  |/Teorico/Notas_Clase/ |
 |Actividades practicas realizadas          |4K3_ISW_G5_\<Descripcion>_\<Ext>                           |/Practico/Actividades_De_Practica/\<Alumno>/ |
 
@@ -59,7 +59,7 @@
 |\<Descripcion>                             |Frase breve y representativa del contenido del Ítem de configuración. |                           
 | \<Titulo>                                 |Título del documento|                    
 | \<NroTrabajo>                             |Corresponde la numeración de los trabajos conceptuales y prácticos en dos dígitos. Ejemplo: “01”|                          
-| \<X>                                      |Corresponde al número de la unidad correspondiente en dos dígitos. Ejemplo: “01”|           
+| \<X>                                      |Corresponde al número de la filmina correspondiente en dos dígitos. Ejemplo: “01”|           
 | \<Alumno>                                |Nombre del alumno en cuestión que realizó la tarea.|                        
 | \<4K3 >                                     |Nombre del curso  |           
 | \<ISW>                                      |Ingeniería de Software: Nombre de la cátedra|                     
